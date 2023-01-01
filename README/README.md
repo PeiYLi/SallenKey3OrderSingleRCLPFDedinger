@@ -4,8 +4,7 @@ The project will help hardware engineers or student design a Sallen-Kay 3-Order 
 
 To Solve a filter in the figure,a classic approach is to preset that some component have the same value.But if you want to find different solution, you must make mathematical derivations.
 In the project, we can solve the filter by preset **R1,C1,C3**.
-
-https://github.com/PeiYLi/SallenKey3OrderSingleRCLPFDedinger/raw/main/README/img.png
+![contents](https://github.com/PeiYLi/SallenKey3OrderSingleRCLPFDedinger/raw/main/README/img.png)
 Notice:So far, The project only support design of a unity gain Sallen-Kay 3-Order filters with single amplifier.
  
 ## Getting Started
